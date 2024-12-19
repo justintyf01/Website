@@ -13,7 +13,7 @@ export default function LinkedInIcon() {
 				variant="outline"
 				size="icon"
 			>
-				<FaLinkedin className="!w-[1.5rem] !h-[1.5rem]" />
+				<FaLinkedin className="!w-[1.5rem] !h-[1.5rem] text-black dark:text-white" />
 			</Button>
 		</a>
 	);

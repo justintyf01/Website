@@ -13,7 +13,7 @@ export default function GitHubIcon() {
 				variant="outline"
 				size="icon"
 			>
-				<FaGithub className="!w-[1.5rem] !h-[1.5rem]" />
+				<FaGithub className="!w-[1.5rem] !h-[1.5rem] text-black dark:text-white" />
 			</Button>
 		</a>
 	);
